@@ -1,0 +1,6 @@
+fastq
+databases
+res/*
+!res/blastn_results.out
+!res/genes_full.fna
+!res/prodigal_result.fna
